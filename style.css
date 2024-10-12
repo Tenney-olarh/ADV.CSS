@@ -1,0 +1,52 @@
+
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    
+}
+
+ul li a{
+    margin: 16px;
+    text-decoration: none;
+    color: white;
+    font: 900;
+}
+
+.logo h2{
+    font-style: oblique;
+    font-size: 30px;
+    color: red;
+    font: 900;
+
+}
+
+header{
+    background: url(./image/snow-on-the-house-in-the-forest-51203-1920x1200.jpg);
+}
+
+.text{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+button{
+    padding: 10px 15px;
+    border: 2px solid red;
+    border-radius: 3px;
+    background-color: transparent;
+    color: white;
+    font: 400;
+    cursor: pointer;
+}
